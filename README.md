@@ -6,17 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
+- [math](#math) (1)
 - [number theory](#number-theory) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
 ### constructive algorithms
 
@@ -29,6 +37,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
 ### number theory
 
