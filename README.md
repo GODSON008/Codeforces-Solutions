@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 6 |
 
 ---
 
@@ -17,6 +17,7 @@
 - [dp](#dp) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -49,6 +50,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 
 ---
 
