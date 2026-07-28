@@ -6,20 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 
 ### brute force
 
@@ -38,6 +46,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 
 ### math
 
