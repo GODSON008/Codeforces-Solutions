@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -62,6 +62,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
