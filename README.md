@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 10 |
+| 13 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -66,6 +66,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
