@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -65,6 +65,7 @@
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/133/A%20-%20HQ9%2B/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
