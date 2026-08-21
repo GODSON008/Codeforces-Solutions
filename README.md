@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 11 |
+| 25 | 11 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 
 ---
 
@@ -72,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/116/A%20-%20Tram/solution.java) |
@@ -117,6 +118,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/GODSON008/Codeforces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
